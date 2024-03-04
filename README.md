@@ -17,3 +17,10 @@ Before running the code, please ensure that you have the following libraries ins
 - scikit-learn
 - matplotlib
 - seaborn
+
+## Project Structure
+1. Data Exploration and Data Visualization
+2. Data Cleaning and Data Preprocessing
+3. Models and metrics used
+
+
